@@ -21,6 +21,7 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(n){
   var multiple = [];
+  var i = 0;
   do {
     multiple.push("I love the Beatles!");
     i++;
