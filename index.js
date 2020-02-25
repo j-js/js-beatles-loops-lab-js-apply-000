@@ -26,5 +26,5 @@ function iLoveTheBeatles(n){
     multiple.push("I love the Beatles!");
     i++;
   }
-  while (condition);
+  while (i,15);
 }
