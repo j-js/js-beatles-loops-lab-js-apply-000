@@ -24,7 +24,7 @@ function iLoveTheBeatles(n){
   var i = 0;
   do {
     multiple.push("I love the Beatles!");
-    i++;
+    n++;
   }
-  while (i<15);
+  while (n<15);
 }
