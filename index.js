@@ -23,6 +23,7 @@ function iLoveTheBeatles(n){
   var multiple = [];
   do {
     multiple.push("I love the Beatles!");
+    i++;
   }
   while (condition);
 }
