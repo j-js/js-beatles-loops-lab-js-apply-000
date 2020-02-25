@@ -21,8 +21,8 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(n){
   var multiple = [];
-  do{
-    
+  do {
+  
   }
-  while()
+  while ();
 }
