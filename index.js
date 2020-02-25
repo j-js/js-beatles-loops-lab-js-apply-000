@@ -22,7 +22,7 @@ function johnLennonFacts(facts){
 function iLoveTheBeatles(n){
   var multiple = [];
   do {
-    multiple.push();
+    multiple.push("I love the Beatles!");
   }
   while (condition);
 }
